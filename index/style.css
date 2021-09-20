@@ -6,10 +6,9 @@
     box-sizing: border-box;
     font-family: "Poppins", sans-serif;
 
-
-    section{
+    content:
         position: relative;
-        width: 100%;
+        width: 100px;
         min-height: 100vh;
         display: flex;
         flex-direction: column;
@@ -17,7 +16,7 @@
         background: url(gt86.jpg)no-repeat;
         background-size: cover;
         background-position: center;
-    }
+
 
      header{
          position: relative;
@@ -48,7 +47,8 @@
               letter-spacing: 1px;
               padding: 2px 15px;
               border-radius: 20px;
-         }
+         
+         
          header .navigation a:not(:last-child){
              margin-right: 30px;
 
@@ -56,7 +56,7 @@
              .content{
                  max-width: 650px;
                  margin: 60px 100px;
-             }
+             
 
              .content .info h2{
                  color: #226A80;
@@ -86,7 +86,7 @@
                  letter-spacing: 2px;
                  padding: 10px 20px;
                  border-radius: 5px;
-             }
+             
 
             .media-icons a{
                 position: relative;
@@ -96,7 +96,7 @@
 
             .media-icons a:not(:last-child){
                 margin-right: 60px;
-                
+
 
             }
 
@@ -105,7 +105,7 @@
              
              
 
-         }
+         
 
               
 
