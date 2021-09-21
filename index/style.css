@@ -17,6 +17,9 @@ body{
     background-position:center;
     height: 150vh;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
        
