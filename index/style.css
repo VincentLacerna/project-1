@@ -7,7 +7,7 @@ body{
 }
 
 #showcase{
-    background-image:url(/img/gt86.jpg);
+    background-image:url('../index/img/gt86.jpg');
     height: 500px;
 
 }
