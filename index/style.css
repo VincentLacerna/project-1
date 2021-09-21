@@ -1,4 +1,16 @@
+body{ 
+    margin: 0;
+    font-family: auto;
+    font-size: 17px;
+    color:antiquewhite;
+    line-height: 1.6;
+}
 
+#showcase{
+    background-image:url(/img/gt86.jpg);
+    height: 800px;
+
+}
 
        
              
