@@ -35,6 +35,10 @@ body{
     font-size: 15px;
     text-decoration: none;
     color:ghostwhite;
+    border:ghostwhite 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top:10px;
 }
 
        
