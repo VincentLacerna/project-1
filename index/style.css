@@ -1,3 +1,8 @@
+*{
+    margin:0;
+    padding:0;
+}
+
 body{ 
     margin: 0;
     font-family: auto;
@@ -8,7 +13,7 @@ body{
 
 #showcase{
     background-image:url('../index/img/gt86.jpg');
-    height: 200px;
+    height: 100vh;
 
 }
 
