@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{ 
+    margin: 0;
+    font-family: auto;
+    font-size: 17px;
+    color:antiquewhite;
+    line-height: 1.6;
+}
+
+#showcase{
+    background-image:url('../index/img/ddub.jpg');
+    background-size:cover;
+    background-position:center;
+    height: 200vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#showcase h1{
+    font-size:50px;
+}
+
+#showcase p{
+    font-size: 30px;
+}
+
+#showcase .button{
+    font-size: 15px;
+    text-decoration: none;
+    color:ghostwhite;
+    border:ghostwhite 1px solid;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top:10px;
+}
+
+       
+             
+             
+             
+
+         
+
+              
+
+     
