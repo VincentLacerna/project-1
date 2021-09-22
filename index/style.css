@@ -15,7 +15,7 @@ body{
     background-image:url('../index/img/ddub.jpg');
     background-size:cover;
     background-position:center;
-    height: 150vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
